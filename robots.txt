@@ -1,0 +1,19 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+Disallow: /search/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.imofrok.my.id/sitemap.xml
+Sitemap: https://www.imofrok.my.id/sitemap-pages.xml
+Sitemap: https://www.imofrok.my.id/atom.xml
+Sitemap: https://www.imofrok.my.id/rss.xml
+Sitemap: http://www.imofrok.my.id/sitemap.xml
+Sitemap: http://www.imofrok.my.id/sitemap-pages.xml
+Sitemap: http://www.imofrok.my.id/atom.xml
+Sitemap: http://www.imofrok.my.id/rss.xml
+Sitemap: http://imofrok.my.id/sitemap.xml
+Sitemap: http://imofrok.my.id/sitemap-pages.xml
+Sitemap: http://imofrok.my.id/atom.xml
+Sitemap: http://imofrok.my.id/rss.xml
